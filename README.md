@@ -31,11 +31,8 @@
 
 ---
 
-### 📊 GitHub Analytics
-<!-- عرض الإحصائيات جنباً إلى جنب بطريقة متوافقة تماماً مع أمان GitHub وبدون جداول -->
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Al-fozan&show_icons=true&theme=tokyonight" width="47%" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Al-fozan&layout=compact&theme=tokyonight" width="47%" alt="Top Languages" />
+
+
 </p>
 
 <br />
