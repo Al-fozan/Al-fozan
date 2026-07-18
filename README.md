@@ -1,30 +1,34 @@
-# Hi there, I'm Mohammed! 👋
+<!-- -->
+<div align="center">
+  <h1>Hi, I'm Mohammed! 👋</h1>
+  <p>Software developer specializing in building automation tools, processing scripts, and custom tech solutions.</p>
 
-### 👨‍💻 About Me
-- 🛠️ Software developer specializing in building automation tools, processing scripts, and custom tech solutions.
+  <!-- أزرار التواصل -->
+  <a href="https://www.linkedin.com/in/mohammed-alfawzan2002"><!-- --><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+  <a href="mailto:mohammed.alfozan2002@gmail.com"><!-- --><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
+</div>
 
 ---
 
 ### 🛠️ Tech Stack & Tools
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-![VS Code](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+<p align="left">
+  <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" alt="Python" />
+  <img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
+  <img src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VS Code" />
+</p>
 
 ---
 
-### 🚀 Featured Projects
-- **[ME6Blocker](https://github.com/Al-fozan/ME6Blocker)** - A dedicated Python utility to block specific server ranges for Rocket League to optimize connection quality.
-- **[SnapMemoryMerger](https://github.com/Al-fozan/SnapMemoryMerger)** - A graphical application designed to batch-process and merge Snapchat data layers.
+### 📊 GitHub Analytics
+<table align="center" border="0" cellpadding="0" cellspacing="0">
+  <tr>
+    <td width="50%" align="center">
+      <img src="https://github-readme-stats.vercel.app/api?username=Al-fozan&show_icons=true&theme=tokyonight&locale=en" alt="GitHub Stats" width="95%" /> <!-- -->
+    </td>
+    <td width="50%" align="center">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Al-fozan&layout=compact&theme=tokyonight&locale=en" alt="Top Languages" width="95%" /> <!-- -->
+    </td>
+  </tr>
+</table>
 
----
-
-### 📊 GitHub Stats
-![Mohammed's GitHub stats](https://github-readme-stats.vercel.app/api?username=Al-fozan&show_icons=true&theme=tokyonight)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Al-fozan&layout=compact&theme=tokyonight)
-
----
-
-### 🤝 Connect with Me
-[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mohammed-alfawzan2002)
-[![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Al-fozan)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mohammed.alfozan2002@gmail.com)
+<br />
